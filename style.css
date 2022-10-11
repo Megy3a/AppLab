@@ -18,21 +18,22 @@ img {
     width: 100%;
 }
 .left-1 {
-width: 35%;  
+/* width: 35%;  
 margin-top: 25px; 
-margin-left: 50px;    
+margin-left: 50px;     */
 }
 .top-1 {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     padding: 75px 150px 50px 150px;
+    align-items: center;
 }
 .right-1 {
     display: flex;
-    width: 65%;
+/*     width: 65%; */
     font-size: 18px;
     font-weight: bold;
-    margin-left: 180px;
+/*     margin-left: 180px; */
     
 }
 .li1 {
