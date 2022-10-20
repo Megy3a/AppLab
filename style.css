@@ -2163,4 +2163,48 @@ padding-left: 20px;
         display: flex;
         justify-content: space-between;
     }
+        .text-8-1 {
+        margin: 0px;
+        font-size: 10px;
+        width: 100%;
+        display: block;
+    }
+    .part-10 {
+        padding-top: 40px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .bottom-2 {
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+        margin: 50px 0px 0px 0px;
+        height: 550px;
+    }
+    .iphone-2 {
+        margin-bottom: 10px;
+        margin-top: 0px
+    }
+    .part-6 {
+        padding: 15px 0px;
+        display: inline-block;
+    }
+    .left-6 {
+        width: 80%;
+        margin: 0px;
+    }
+    .right-6 {
+        width: 80%;
+        margin: 0px;
+    }
+    .all-7 {
+        width: 40%;
+    }
+    .all-7-2 {
+        width: 40%;
+    }
+    .img9 {
+        width: 199%;
+        transform: translateX(-75px);
+    }
 }
